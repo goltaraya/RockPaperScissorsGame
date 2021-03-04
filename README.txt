@@ -1,4 +1,4 @@
-This little game was made as a result of a final project of the fourth day bootcamp of python. 
+This little game was made as a result of the final project of the fourth day bootcamp of python. 
 
 The bootcamp takes 100 days. At the end of each day there's a final project.
 
